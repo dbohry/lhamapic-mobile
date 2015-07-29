@@ -22,6 +22,8 @@ public class Main extends Activity implements
 	private NavigationDrawerFragment mNavigationDrawerFragment;
 
 	/**
+
+	 * AUTOR DANIEL BOHRY
 	 * Used to store the last screen title. For use in
 	 * {@link #restoreActionBar()}.
 	 */
